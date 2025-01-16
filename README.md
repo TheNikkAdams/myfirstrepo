@@ -1,8 +1,9 @@
 myfirstrepo
-This is the *first* repository that Ih ave created on this <em>GItHub<em> account and ia m super excited about it!
+This is the *first* repository that Ih ave created on this <em>GItHub</em> account and ia m super excited about it!
 
-Today is January 16<sup>th<sup>, 2025
+Today is January 16<sup>th</sup>, 2025
 
+I am now working on an eneitrely different branch. Its called major changes and its scool!
 
 Here are the reeasons why:
 Because  coding is fun!
