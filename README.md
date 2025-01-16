@@ -1,5 +1,8 @@
 myfirstrepo
-This is the first repository that Ih ave created on this GItHub account and ia m super excited about it!
+This is the *first* repository that Ih ave created on this <em>GItHub<em> account and ia m super excited about it!
+
+Today is January 16<sup>th<sup>, 2025
+
 
 Here are the reeasons why:
 Because  coding is fun!
